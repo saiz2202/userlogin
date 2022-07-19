@@ -1,0 +1,11 @@
+1. UserRegistration -- Front end part will do later
+2. Create user table and department table
+3. Create one to one mapping for user and department table
+4. Create one to many mapping for department to user table
+5. Create get, post and put method to get user, create and update user and department
+6. Create repository to get user and department based on name 
+7. Create repository to get user and department based on name and number
+8. Use Rest template for posting the record(create new application)
+9. Add validation for size and not null(validation)
+10.Spring Rest Docs
+
